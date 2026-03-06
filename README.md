@@ -2,42 +2,51 @@
 
 Senior VoIP & Telecom Engineer
 
-Specialized in Cisco Collaboration, enterprise voice architecture, and SIP infrastructure.
+Specialized in enterprise voice infrastructure, Cisco collaboration technologies, and SIP-based communication systems.
+
+---
 
 ## Core Technologies
 
 - Cisco Unified Communications Manager (CUCM)
 - Cisco CUBE (Session Border Controller)
-- SIP / RTP
-- VoIP Troubleshooting
+- SIP / RTP / VoIP Protocols
 - Cisco Routing & Switching
 - VPN Technologies
+- VoIP Troubleshooting
 - Enterprise Voice Design
+
+---
 
 ## Engineering Focus
 
-- Cisco Voice Infrastructure
+- Cisco Collaboration Infrastructure
 - SIP Trunk Architecture
 - Enterprise Dial Plan Design
-- VoIP Troubleshooting
-- Voice Network Security
+- Voice Security
+- VoIP Network Troubleshooting
+
+---
 
 ## Lab & Research
 
-This GitHub contains lab scenarios and engineering documentation for Cisco voice and network technologies.
+This GitHub contains hands-on lab scenarios and engineering documentation related to Cisco voice and network technologies.
 
-Main project:
+Main repository:
 
-Cisco CUCM Voice Lab  
-cisco-cucm-lab repository
+**Cisco CUCM Voice Lab**
+
+cisco-cucm-lab
+
+---
 
 ## Professional Background
 
-Telecom engineer with extensive experience in voice systems, enterprise PBX platforms, and VoIP infrastructure.
+Telecom engineer with extensive experience designing, deploying, and troubleshooting enterprise voice systems.
 
 Experience includes:
 
-- Cisco Collaboration
+- Cisco Collaboration platforms
 - Panasonic PBX systems
 - Grandstream IP PBX
 - Enterprise SIP deployments
